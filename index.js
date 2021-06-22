@@ -16,4 +16,4 @@ server.get('*', (req, res) => {
 
 server.listen(port, () => {
   console.log('listening on ' + port)
-});
+})
