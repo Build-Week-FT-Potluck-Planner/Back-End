@@ -1,0 +1,75 @@
+{
+  "potlucks": [
+    {
+      "id": 1,
+      "name": "Homecoming",
+      "organizer": "Betty",
+      "date": "10/12/2021",
+      "time": "3pm",
+      "location": "Home"
+    },
+    {
+      "id": 4,
+      "name": "Birthday",
+      "organizer": "Bob",
+      "date": "08/20/2021",
+      "time": "12pm",
+      "location": "Park"
+    },
+    {
+      "id": 3,
+      "name": "BBQ",
+      "organizer": "Terry Cruz",
+      "date": "09/12/2021",
+      "time": "2pm",
+      "location": "Outside"
+    },
+    {
+      "name": "Random",
+      "organizer": "Letty",
+      "date": "10/15/2021",
+      "time": "5pm",
+      "location": "random",
+      "id": 5
+    },
+    {
+      "name": "Random",
+      "organizer": "Letty",
+      "date": "10/15/2021",
+      "time": "5pm",
+      "location": "random",
+      "id": 6
+    }
+  ],
+  "dishItems": [
+    {
+      "id": 2,
+      "name": "Ribs"
+    },
+    {
+      "id": 1,
+      "name": "Potatoes"
+    },
+    {
+      "id": 3,
+      "name": "salad"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "janedoe",
+      "password": "1235"
+    },
+    {
+      "id": 4,
+      "username": "johndoe",
+      "password": "1234"
+    },
+    {
+      "id": 3,
+      "username": "foobar",
+      "password": "123456"
+    }
+  ]
+}
